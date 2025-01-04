@@ -4,6 +4,8 @@ Combining cutting-edge technologies, this **Generative AI project** delivers an 
 ## ✨ Explore it from this link, deployed on Heroku: 👉 https://ai-ecommerce-12-2024-9bbd96b7e1cd.herokuapp.com/
 ---
 
+![Ai E-commerce Frontend](https://github.com/RamziRebai/AI-Powered-E-Commerce-Platform-with-Multimodal-Agent-Chatbot/blob/main/chattbot_thumbnail.png)
+
 ## 🚀 Key Features of the Platform  
 
 ### 1️⃣ **MultiModal Agent Chatbot**  
@@ -68,4 +70,4 @@ Looking for additional customization? Here's what I can provide:
 ## 📞 Get in Touch!  
 Let’s bring your ideas to life with **LangChain**, **React**, and the latest in **Generative AI**.  
 
-🔗 **Contact Me on Upwork**: [Click here](https://lnkd.in/erb9ZYx6)  
+🔗 **Contact Me on Upwork**: [Click here](https://www.linkedin.com/in/ramzirebai/)  
