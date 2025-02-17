@@ -1,5 +1,5 @@
 # ✨ Full AI-Powered E-Commerce Website ✨  
-Combining cutting-edge technologies, this **Generative AI project** delivers an intelligent and seamless shopping experience. It’s the perfect solution for businesses looking to elevate their e-commerce platform with advanced AI capabilities.  
+Combining cutting-edge technologies, this **Generative AI project** delivers an intelligent and seamless shopping experience. It’s the perfect solution for businesses looking to elevate their e-commerce platform with advanced AI capabilities.
 
 ## ✨ Explore it from this link, deployed on Heroku: 👉 https://ai-ecommerce-12-2024-9bbd96b7e1cd.herokuapp.com/
 ---
